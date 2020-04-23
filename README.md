@@ -4,50 +4,30 @@ Test set for Professional Development and Business Acumen
 
 ## Table of contents
 
+- [Class](#Class)
+- [Group Name](#Group-Name)
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
+- [ADDITIONAL DOCUMENTATION AND VERSIONING](#additional-documentation)
+
+
+## Class
+
+Text Analytics
+
+## Group Name
+
+Anti-Virus
 
 ## Project Title
 
-Hello World Sample 
+Githup Sample 
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+Our group will scrape articles about coronavirus from the Washington Post. There are around 8000 articles related to coronavirus which started posting from January 2020, and the number of articles is updated every day (https://www.washingtonpost.com/). We will collect articles based on each remarkable event. Starting from the outbreak of coronavirus from Wuhan, confirmation from the United States, declaration of public health emergency from the World Health Organization (WHO), and so forth. 
 
-## How to Run Program 
+## Additional Documentation and Versioning
 
-Explain here how you would run the program and what files need to be available. 
-```text
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   
-```
+Additional documents will be updated
 
-## Files Used 
-
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
-
-
-## Additional Documentation
-
-No additional documentation at this time 
-
-
-## Versioning
-
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
